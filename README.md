@@ -1,0 +1,1 @@
+The pdf file Data Cleaning explain the steps on how the datasets were cleaned and merged. The merged data is merged_df.RData. The merged data has been imported into shinyApp.R where it will show the results of the research.
